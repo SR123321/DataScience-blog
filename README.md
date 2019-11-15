@@ -18,8 +18,8 @@ Installation:
 3. How is the Career and Job satisfication of the programmers in US vs Other countries?
 
 File Descriptions:
-Analysis.ipynb: The notebook to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells & comments were used to assist in walking through the thought process for individual steps.
-survey_results_public.csv - Downloaded 2019 data from URL:https://insights.stackoverflow.com/survey
+1. Analysis.ipynb -  The notebook to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells & comments were used to assist in walking through the thought process for individual steps.
+2. survey_results_public.csv - Downloaded 2019 data from URL:https://insights.stackoverflow.com/survey
 
 Results:
 1. In 2019, United States has max number of programmers. Women programmers ratio to men is around 1: 10.

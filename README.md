@@ -29,6 +29,7 @@ The difference in salary for men in US vs other countries is higher than women.
 3. We found that the Career and Job Satisfaction of Women programmers in US is higher than those of the rest of the world.
 4. When comparing how often programmers work remotely, it looks like men in US work more remotely than rest of the world.
 Women programmers tend to work remotely more after 20 year of work experience in US and rest of the world and this is probably the reason for more Career and job satisfaction.
+Blog:https://medium.com/@swapna.ae/how-are-women-doing-as-programmers-today-fdb38abe3d67
 
 Licensing, Authors and Acknowledgements:
 Thanks to Stackoverflow for the data.You can find the Licensing for the data and other descriptive information at the Stackoverflow link.
